@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(21, 193, 193);
+}
+
+.title {
+    color: darkred;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: xx-large;
+    text-align: center;
+}
+
+.idea {
+    color: darkred;
+    font-size: large;
+}
+
+.submitidea {
+    color: darkred;
+    background-color: cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+}
+
+.inputcolor {
+    color: darkred;
+    background-color: cyan;
+}
